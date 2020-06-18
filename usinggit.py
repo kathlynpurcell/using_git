@@ -17,4 +17,4 @@ if yn ==1:
     print("\n The result of %i + %i + %i is %i" %(num1,num2,num3,added2))
 
 print("\n Thanks for using! \n")
-
+print("Hello from Ubuntu! :) \n\n")
